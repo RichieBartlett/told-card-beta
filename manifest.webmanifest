@@ -1,0 +1,1 @@
+{"name":"TOLD Card — Personal Beta","short_name":"TOLD Card","description":"Offline-first personal TOLD card beta","start_url":"./index.html","scope":"./","display":"standalone","orientation":"any","background_color":"#eaf0f5","theme_color":"#10263d","icons":[{"src":"icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
