@@ -1,13 +1,9 @@
-TOLD Card Personal Beta 1.1
+TOLD Card Personal Beta 1.2
 
-Upload all five files to the ROOT of the same GitHub repository, replacing the existing files. Keep the same GitHub Pages URL.
+Upload all five files into the root of the existing GitHub Pages repository, replacing the previous files. Commit changes, wait for deployment, then open the site online and refresh/reopen the Home Screen app.
 
-After GitHub Pages deploys, open the URL online and refresh, then test offline. iPad Home Screen apps may cache the previous version briefly; fully close/reopen after online update.
+Existing ordinary flight data uses the same localStorage key as beta 1.1; do not clear site data. DSC remains session-only.
 
-Saved flight entries use the same localStorage key as Beta 1.0 and should migrate automatically. Do not clear site data during update. DSC is not persisted. Test with sample flight data first.
+Beta 1.2 changes: higher contrast, larger flight number, A FLT ATT, ramp frequency, tankering fuel, reordered arrival fields, bold touchdown, scale choices 50/75/100, adjusted iOS status-bar metadata.
 
-Frequency entry: 12345 becomes 123.45; 1218 becomes 121.8 when you leave the field. Explicit decimals are preserved. This is formatting only, not a frequency validation or lookup.
-
-Appearance: choose display scaling 50-125% and toggle dark mode.
-
-Offline and local storage are best effort, not guaranteed by iPadOS. Not an operationally validated tool.
+Test all inputs and offline behavior before relying on the beta as a supplement; it is not validated for operational use.
