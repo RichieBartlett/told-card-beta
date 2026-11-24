@@ -1,1 +1,1 @@
-TOLD Card Beta 2.0 — based on Beta 1.9. Upload all five files to the root of the existing GitHub Pages repository. Preserve the Beta 1.9 ZIP as a rollback. Data uses the same localStorage key. Time fields accept HHMM or HH:MM and normalize on blur; Pushback UTC NOW sets the current UTC time. Verify flight times against approved sources.
+TOLD Card Beta 2.1 — Restore previous field label colors; FLIGHT TIME at top left in line with Flight Number. Upload all five files to existing GitHub Pages repository. Previous version preserved separately.
