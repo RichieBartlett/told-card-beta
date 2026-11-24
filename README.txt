@@ -1,9 +1,9 @@
-TOLD Card Beta 1.7 — Southwest Flight Deck inspired theme
+TOLD Card Beta 1.8 — Modern Glass Cockpit theme
 
-This is a visual theme update built from Beta 1.6. Existing flight fields, localStorage key, offline service worker, scale controls, and light/dark toggle are retained.
+Visual theme comparison based on Beta 1.7. All fields, flight-data storage keys, light/dark toggle, scale settings, and offline behavior remain unchanged.
 
-Install: Extract and upload the five files in this archive to the ROOT of your existing GitHub Pages repository, replacing the existing files. Commit, visit the website online, refresh, then reopen your Home Screen app.
+Install: Extract and upload five files to the root of the existing GitHub Pages repository, replacing the previous files. Commit, visit the website online, refresh, then reopen the iPad Home Screen app.
 
-ROLLBACK: Keep the separately supplied Beta 1.6 ZIP. To roll back, upload its five files in the same way. The same data storage key is used.
+Rollback: Keep Beta 1.7 and Beta 1.6 ZIP packages. To restore a previous look, re-upload its five files.
 
-Southwest-inspired palette only; not affiliated with or endorsed by Southwest Airlines. Supplement only; verify operational data against approved sources.
+Supplement only; verify operational information against approved sources.
