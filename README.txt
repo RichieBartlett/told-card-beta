@@ -1,3 +1,1 @@
-TOLD Card Beta 2.4 — upload all five files to the root of your existing GitHub Pages repository, replacing previous files.
-Refresh online before opening the Home Screen app. Existing ordinary flight data uses the same localStorage key.
-Changes: green outline when Safety Vest REQUIRED; active Departure/Arrival Gate fields use header navy shading while retaining green outline.
+TOLD Card Beta 2.5 — Multi-leg flight management. Upload all five files to your existing GitHub Pages repository root. The first launch imports existing Beta 2.4 flight data into Leg 1. Planned legs are editable, archived legs read-only. Clear Completed Legs deletes archived data permanently. All flight data is stored locally on this device; back up important information separately. DSC is session-only. Verify operational information against approved sources.
