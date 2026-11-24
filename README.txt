@@ -1,7 +1,9 @@
-TOLD Card Beta 1.6 — GitHub Pages update
+TOLD Card Beta 1.7 — Southwest Flight Deck inspired theme
 
-Upload all five files to the root of your existing told-card-beta repository, replacing previous files. Commit, wait for GitHub Pages, open the site online and refresh, then relaunch your iPad Home Screen app.
+This is a visual theme update built from Beta 1.6. Existing flight fields, localStorage key, offline service worker, scale controls, and light/dark toggle are retained.
 
-New: arrival-side Ramp Freq; standardized input typography; darker blue-grey panels; Ground Ops before Safety Vest; Bottom Altitude and Bottom Airspeed; Arrival ATIS and Runway repositioned.
+Install: Extract and upload the five files in this archive to the ROOT of your existing GitHub Pages repository, replacing the existing files. Commit, visit the website online, refresh, then reopen your Home Screen app.
 
-The app retains the same localStorage flight-data key for continuity. DSC remains memory-only. Operational supplement only; verify with approved sources.
+ROLLBACK: Keep the separately supplied Beta 1.6 ZIP. To roll back, upload its five files in the same way. The same data storage key is used.
+
+Southwest-inspired palette only; not affiliated with or endorsed by Southwest Airlines. Supplement only; verify operational data against approved sources.
