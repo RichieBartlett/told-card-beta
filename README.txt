@@ -1,4 +1,4 @@
-TOLD Card Beta 1.5 — GitHub Pages update
+TOLD Card Beta 1.6 — GitHub Pages update
 
 Upload all five files to the root of your existing told-card-beta repository, replacing previous files. Commit, wait for GitHub Pages, open the site online and refresh, then relaunch your iPad Home Screen app.
 
