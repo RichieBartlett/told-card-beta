@@ -1,1 +1,1 @@
-TOLD Card Beta 2.8. Compact two-row half-screen header; improved room for operational fields. Retains Beta 2.7 offline-first storage and JSON backup/restore. Upload all five files to GitHub Pages repository root. Export a backup first; test with sample flights before operational use.
+TOLD Card Beta 2.9 — expanded responsive operational fields. Upload these five files to your GitHub Pages repository root. Back up flight legs before updating.
